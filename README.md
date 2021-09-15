@@ -1,4 +1,4 @@
-# rongcloud-android-imdemo-userinfo&groupinfo
+# rongcloud-android-imdemo-voice-to-text
 
 rongcloud-android-imdemo-voicetotext 是基于融云 IMKit SDK 的语音转文字功能，使用了融云最新的 5.0 SDK。
 
